@@ -7,8 +7,3 @@ angular.module('salesApp', [
   'salesApp.view2',
   'salesApp.templates'
 ]);
-// .config(['$locationProvider', '$routeProvider', function($locationProvider, $routeProvider) {
-//   $locationProvider.hashPrefix('!');
-
-//   $routeProvider.otherwise({redirectTo: '/view1'});
-// }]);
